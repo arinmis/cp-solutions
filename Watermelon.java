@@ -7,14 +7,15 @@ public class Watermelon {
         int weight = input.nextInt();
         if(isPossible(weight))
             System.out.println("YES");
-        else 
+        else
             System.out.println("NO");
     }
-    
-    // c = c + c -> 6 = 2 + 4
+ 
+    // t != c + c
+    // 7 = 2 + 5
     // 2 = 1 + 1
-    public static boolean isPossible(int weight) { 
-        if(weight % 2 == 0 && weight != 2) 
+    public static boolean isPossible(int weight) {
+        if(weight % 2 == 0 && weight != 2)
             return true;
         return false;
     }
