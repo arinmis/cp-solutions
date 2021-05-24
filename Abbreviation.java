@@ -16,7 +16,8 @@ public class Abbreviation {
     public static String abbreviate(String str) { 
         if(str.length() <= 10)
             return str;
-        return str.substring(0, 1) + str.substring(1, str.length() - 1).length() +              str.substring(str.length() - 1);
+        return str.substring(0, 1) + str.substring(1, str.length() - 1).length() 
+          + str.substring(str.length() - 1);
     }
  
 }
