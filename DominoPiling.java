@@ -14,7 +14,6 @@ public class DominoPiling {
         if(n % 2 == 0 || m % 2 == 0)
             return n * m / 2;
         return (n * m - 1) / 2; 
-
     }
 
 }
