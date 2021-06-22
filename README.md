@@ -5,6 +5,8 @@
  
  - There are a lot of platform outside there but I am using [codeforce](https://codeforces.com/)
  
+ - Also I have solved couple of problem on [my YouTube channel](https://www.youtube.com/watch?v=ptYE67pT4RU&list=PLB3scnRGX8FBaLBkiRtP8ljI1VfulGekl). Check it out. 
+ 
  ## How things works at codeforces?
  - Each problem has problem statement, sample input and sample output. Programmers task is writing,required program, in any language, that maps all inputs to correct outputs. For example for [this problem](https://codeforces.com/problemset/problem/1095/A): 
 
