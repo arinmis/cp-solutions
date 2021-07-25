@@ -24,7 +24,7 @@
 # I've solved up to 200 comptetetive programming problem, here my is stats:
 ![stat1](https://user-images.githubusercontent.com/56651041/111890037-ea40af80-89f6-11eb-9c12-2fc3b40f285b.PNG)
 ![pie-stat](https://user-images.githubusercontent.com/56651041/111890035-e9a81900-89f6-11eb-8cb5-2879f982f7cf.PNG)
-![heat-map](https://github.com/Arinmis/cp-solutions/issues/1#issue-952360583)
+![heat-map](https://user-images.githubusercontent.com/56651041/126914242-3f97c0c2-fdfa-45d9-a226-fa264af4c42c.png)
 
 - You can check mine or anyone statistics with using [this](https://cfviz.netlify.app/) web site and codeforces nickname.(my nick name = "Arinmis")
 
