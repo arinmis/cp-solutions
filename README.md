@@ -26,6 +26,6 @@
 ![pie-stat](https://user-images.githubusercontent.com/56651041/126914334-44e144e6-ae50-4ee5-a9bd-5555171e0163.png)
 ![heat-map](https://user-images.githubusercontent.com/56651041/126914242-3f97c0c2-fdfa-45d9-a226-fa264af4c42c.png)
 
-- You can check mine or anyones statistics with using [this](https://cfviz.netlify.app/) web site and codeforces nickname.(my nick name: Arinmis)
+- You can check mine or anyones statistics with using [this](https://cfviz.netlify.app/) web site.(my nick name: Arinmis)
 
 
